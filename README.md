@@ -14,21 +14,24 @@ https://drive.google.com/open?id=1naidKW2b8_9cS-DkmCJg4AA1OedlB7wc
 
 We made some changes from the intial database as we added 2 tables: "WORDEXTENDED" and "FORMEXTENDED", which are copies of "WORD" and "FORM" intial tables respectively, with an additional column providing the unvocalized form of words. This is done in order to be able to perform sql queries using unvocalized words. 
 
+We used this version in the following work:
+Ameur, M. S. H., Khadir, A. C., & Guessoum, A. (2017, October). An Automatic Approach for WordNet Enrichment Applied to Arabic WordNet. In International Conference on Arabic Language Processing (pp. 3-18). Springer, Cham.
+
 # Copyright
 
-Princeton WordNet data Version 2.0 (extract)
+Princeton WordNet data Version 2.0 (extract)  
 2003, Princeton University
 
-Arabic WordNet database schema
-Authorship: Adam Pease, Manuel Bertran, Piek Vossen, Christiane Fellbaum, Bill Black
+Arabic WordNet database schema    
+Authorship: Adam Pease, Manuel Bertran, Piek Vossen, Christiane Fellbaum, Bill Black  
 2006, Articulate Software, Princeton University, University of Manchester, UPC.
 
-Arabic WordNet data
-Authorship: Musa Alkhalifa, Sabri Elkateb 
+Arabic WordNet data  
+Authorship: Musa Alkhalifa, Sabri Elkateb   
 2007, UPC and the University of Manchester.
 
-Arabic WordNet SQLite version
-2018, University of Science and Technology Houari Boumediene
+Arabic WordNet SQLite version  
+2018, University of Science and Technology Houari Boumediene  
 
 # Licence Terms
 
