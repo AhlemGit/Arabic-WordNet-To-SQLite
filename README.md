@@ -17,6 +17,8 @@ We made some changes from the intial database as we added 2 tables: "WORDEXTENDE
 We used this version in the following work:  
 > Ameur, M. S. H., Khadir, A. C., & Guessoum, A. (2017, October). An Automatic Approach for WordNet Enrichment Applied to Arabic WordNet. In International Conference on Arabic Language Processing (pp. 3-18). Springer, Cham.
 
+This repository also includes a source code providing some functions to query the AWN SQLite database about hypernyms and hyponyms. The program could be found in "Access functions" folder.
+
 # Copyright
 
 Princeton WordNet data Version 2.0 (extract)  
