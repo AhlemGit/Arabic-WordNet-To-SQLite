@@ -11,7 +11,8 @@ https://drive.google.com/open?id=1gQmjsSkn4SqZAMtWH7VmRJBTYfyP087N
 
 The SQLite version of the AWN database that we provide is available here: 
 https://drive.google.com/open?id=1naidKW2b8_9cS-DkmCJg4AA1OedlB7wc
-You can explore it easily using the DB Browser for SQLite tool (https://sqlitebrowser.org/)
+
+You can easily explore The database using the DB Browser for SQLite tool (https://sqlitebrowser.org/)
 
 We made some changes from the intial database as we added 2 tables: "WORDEXTENDED" and "FORMEXTENDED", which are copies of "WORD" and "FORM" intial tables respectively, with an additional column providing the unvocalized form of words. This is done in order to be able to perform sql queries using unvocalized words. 
 
